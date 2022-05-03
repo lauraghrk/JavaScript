@@ -1,4 +1,4 @@
-let res = document.getElementById('res')
+let res = document.getElementById('res-nomes')
 let nome = document.getElementById('nome')
 let v = []
 
